@@ -1,0 +1,41 @@
+p{
+    border: 4px;
+    display: block;
+    margin: center;
+    background-color: rgb(173, 124, 219);
+    
+    
+}
+
+div> p{
+    margin: center;
+    display: block;
+    background-color: rgba(89, 67, 148, 0.363);
+    padding: 23px;
+    margin: 20px;
+    text-decoration: dashed;
+    text-align: left;
+    text-size-adjust: 30px;
+    text-shadow: 3px;
+}
+.center{
+    display: flex;
+    height: 400px;
+    max-width: 400px;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: black;
+    border: 10px solid green;
+    border-width: 5px 10px 0px 0px;
+  
+
+    
+
+}
+li{
+    background-color: aqua;
+    margin: 0px 10px 12px;
+    padding:12px;
+ 
+}
